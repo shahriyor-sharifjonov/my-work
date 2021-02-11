@@ -4,7 +4,7 @@
     box-sizing: border-box;
 }
 body{
-    background: darkgrey;
+    background: rgb(38, 38, 38);
 }
 h1{
     color: red;
@@ -15,5 +15,5 @@ p{
     text-align: center;
     font-size: 15px;
     line-height: 20px;
-    color: blueviolet;
+    color: #fff;
 }
